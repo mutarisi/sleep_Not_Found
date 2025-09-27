@@ -1,0 +1,16 @@
+{
+  "name": "Sleep() Function Not Found",
+  "version": "1.0",
+  "authors": [
+    "Mutarisi Chibaya",
+    "Joan Nyoni"
+  ],
+  "description": "A sample bot that is probably the first bot you will learn about.",
+  "homepage": "",
+  "countryCodes": [
+    "us",
+    "dk"
+  ],
+  "platform": "Java",
+  "programmingLang": "Java 17"
+}
