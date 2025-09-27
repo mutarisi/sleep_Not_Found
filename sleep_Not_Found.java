@@ -10,11 +10,11 @@ import dev.robocode.tankroyale.botapi.events.*;
 // Probably the first bot you will learn about.
 // Moves in a seesaw motion and spins the gun around at each end.
 // ------------------------------------------------------------------
-public class MyFirstBot extends Bot {
+public class sleep_Not_Found extends Bot {
 
     // The main method starts our bot
     public static void main(String[] args) {
-        new MyFirstBot().start();
+        new sleep_Not_Found().start();
     }
 
     // Called when a new round is started -> initialize and do some movement
